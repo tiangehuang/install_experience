@@ -1,0 +1,2 @@
+vim /etc/docker/daemon.json
+加入如下参数： "graph":"/data/docker"
