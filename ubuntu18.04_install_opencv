@@ -9,3 +9,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
       -D PYTHON3_LIBRARIES=/home/tiange/anaconda3/lib/python3.7/site-packages \
       -D INSTALL_C_EXAMPLES=OFF \
       -D BUILD_EXAMPLES=ON ..
+
+more information see： 
+1. https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/ 
+2. https://pydeeplearning.com/opencv/install-opencv3-with-anaconda-python3-6-on-ubuntu-18-04/
